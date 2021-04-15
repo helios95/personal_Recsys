@@ -69,7 +69,7 @@ INT64	카테고리(게시판 종류)
 ### 동작방식
  선호도 행렬을 user / item 개별 행렬로 분해하고 합치는 과정에서 빈곳의 선호도를 예측
 
-![ex_screenshot](./images/image2.png){: width="100" height="100"}
+![ex_screenshot](./images/image2.png){: width="70%" height="70%"}
 
 ### 조건  
  선호도 데이터 1% 이상
