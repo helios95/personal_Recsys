@@ -63,7 +63,7 @@ COMMUNITY_NO
 INT64	카테고리(게시판 종류)
 6	COMMUNITY_NM	STRING	게시판 명
 
-![ex_screenshot](./images/images1.png)
+![ex_screenshot](./images/image1.png)
 
 
 ### 동작방식
