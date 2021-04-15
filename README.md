@@ -52,16 +52,14 @@ Matrix Factorizaion 알고리즘 중 SVD(Singular Value Decomposition)이용
 tb_preference  
  유저가 2월 한달간 읽은 카드 (유저와 유저가 읽은 카드의 인기도 상관관계)
 
-NO	컬럼 이름	TYPE	설명
-1	MEMBER_NO	INT64	스토브 유저
-2	READ_CARD_NO	INT64	읽은 카드
-3	READ_CNT	INT64	읽은 횟수
-4	TITLE	STRING	카드 제목
-5	
-COMMUNITY_NO
-
-INT64	카테고리(게시판 종류)
-6	COMMUNITY_NM	STRING	게시판 명
+|NO|컬럼 이름|TYPE|설명|
+|---|-----------|----|--------|
+|1|MEMBER_NO|INT64|스토브 유저|
+|2|READ_CARD_NO|INT64|	읽은 카드|
+|3|READ_CNT|	INT64|	읽은 횟수|
+|4|TITLE	STRING|	카드 제목|
+|5|COMMUNITY_NO|INT64|	카테고리(게시판 종류)|
+|6|COMMUNITY_NM|STRING|게시판 명|
 
 <img src = "./images/image1.png" width="50%"> 
 
