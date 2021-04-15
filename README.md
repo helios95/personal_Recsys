@@ -63,6 +63,8 @@ COMMUNITY_NO
 INT64	카테고리(게시판 종류)
 6	COMMUNITY_NM	STRING	게시판 명
 
+![ex_screenshot](./images/images1.png)
+
 
 ### 동작방식
  선호도 행렬을 user / item 개별 행렬로 분해하고 합치는 과정에서 빈곳의 선호도를 예측
