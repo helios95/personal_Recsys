@@ -57,7 +57,7 @@ tb_preference
 |1|MEMBER_NO|INT64|스토브 유저|
 |2|READ_CARD_NO|INT64|	읽은 카드|
 |3|READ_CNT|	INT64|	읽은 횟수|
-|4|TITLE	STRING|	카드 제목|
+|4|TITLE|STRING|	카드 제목|
 |5|COMMUNITY_NO|INT64|	카테고리(게시판 종류)|
 |6|COMMUNITY_NM|STRING|게시판 명|
 
